@@ -13,19 +13,21 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea dolorum
-          ullam ab odit, accusamus error molestias beatae perspiciatis
-          dignissimos placeat quasi modi non nulla! Quidem hic consequatur eum
-          cum voluptatibus.
+          Hi there! I'm Nischal Dahal, currently pursuing a bachelor's degree in
+          computer application. I'm a highly motivated individual with a deep
+          passion for programming and technology. I have experience working with
+          JavaScript frameworks and libraries, showcased on my personal GitHub
+          profile. Programming, for me, is an art form, and I'm always eager to
+          learn and explore in this field.
         </p>
         <br></br>
         <p className="text-xl mt-10">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, culpa
-          ullam nihil commodi repellendus veniam ea, doloremque similique
-          asperiores quod illum repudiandae laboriosam facilis hic consequatur
-          nostrum magnam facere libero! Text messaging, or texting, is the act
-          of composing and sending electronic messages, typically consisting of
-          alphabetic and
+          Besides programming, I also enjoy writing poetry and stories, and I
+          have a keen interest in literature. I am the Co-Founder of Samarpan
+          Youth Initiative. Currently, I serve as the Charter President of
+          Samarpan Youth Initiative, a college club led by students like myself.
+          I'm open to new opportunities and excited to see where my programming
+          passion takes me next.
         </p>
       </div>
     </div>
